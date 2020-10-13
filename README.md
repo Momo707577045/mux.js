@@ -1,7 +1,7 @@
 # [Source project official website](https://github.com/videojs/mux.js)
 
 # What I did
-- fixed duration error in mux.js
+- fixed duration bug in mux.js
 - just add these code
 
   ![](http://upyun.luckly-mjw.cn/Assets/mux/001.jpeg)
